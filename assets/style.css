@@ -180,7 +180,7 @@ body {
   padding: 20px;
 }
 
-.menu-list-filter select {
+.select-filter {
   background-color: black;
   color: white;
   padding: 7px 0;
@@ -308,7 +308,7 @@ body {
     background-color: white;
     transform: translateX(-20px);
 }
-.movie-list-filter select.active{
+.select-filter.active{
     background-color: white;
     color: black;
 }
